@@ -68,25 +68,18 @@ Design and Developed by: Codelayers
 /* feature box 1
  ------------------------------ */
 
-.ce-feature-box-1{
+.ce-feature-box-1-1{
 	position:relative;
 	width:100%;
 	float:left;
-	top:-70px;
+	top:-270px ;
 	padding:45px;
 	background-color:#CF2027;
 }
-.ce-feature-box-1 .text-box{
-	width:100%;
-	float:left;
-	padding:40px;
-	border-right:1px solid rgba(255, 255, 255, 0.2);
-}
 
-.ce-feature-box-1 .text-box.no-border{
-	border-right:none;
+.ce-feature-box-1-1 img{
+	width: 100%;
 }
-
 /* feature box 2
  ------------------------------ */
 
