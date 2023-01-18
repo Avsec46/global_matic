@@ -75,9 +75,21 @@ Design and Developed by: Codelayers
 	top:-70px ;
 	padding:45px;
 	background-color:#CF2027;
-	
+	box-shadow: 7px 15px 5px rgba(247, 110, 110, 0.39);
+	box-decoration-break: clone;
+
 }
 
+.ce-feature-box-1 .text-box{
+	border-right: solid 1px rgba(255, 255, 255, 0.418);
+}
+
+
+.ce-feature-box-1 .no-border{
+	border-right: none ;
+}
+
+/* FOR our story */
 .ce-feature-box-1-1{
 	position:relative;
 	width:100%;
@@ -229,6 +241,7 @@ Design and Developed by: Codelayers
 	padding:100px;
 	min-height:600px;
 	background-color:#fff;
+
 }
 .ce-feature-box-4 .text-box .post-date-box{
 	color:#101010;
