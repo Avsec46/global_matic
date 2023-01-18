@@ -5421,21 +5421,30 @@ display:none;
 
 
 
+/* changed css */
+header{
+	
+	align-items: center;
+}
 
 
 .main-side{
-	justify-content: center;
+	justify-content:flex-end;
+	
 
 }
 
-.main-side .careers h5 a{
+.main-side .careers a{
 	text-decoration: none;
 	color: white;
+	font-weight: 700;
 }
 
-.main-side .careers .medias a i{
+.main-side .medias a {
+	
+	align-items: center;
 	text-decoration: none;
-	color: #000 !important;
+	color: white;
 }
 
 

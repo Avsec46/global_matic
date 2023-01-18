@@ -34,6 +34,10 @@ Design and Developed by: Codelayers
 	margin:15px auto 0 auto;
 	line-height:29px;
 }
+.header{
+	display: flex;
+	
+}
 .ce-sub-text.less-width {
 	width: 50%;
 	margin:15px auto 0 auto;
