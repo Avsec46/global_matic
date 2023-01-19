@@ -3153,7 +3153,9 @@ ul.footer-flickr {
 	width: 100%;
 	height: 100%;
 	margin: 0;
-	background-color: rgba(202, 33, 33, 0.9);
+	background: url(../images/bg-pattrens/pattren24.jpg) 0 0 repeat;
+	
+
 }
 .section-pattren-25 {
 	width: 100%;
@@ -3198,8 +3200,6 @@ ul.footer-flickr {
 	background: #151515 url(../images/bg-pattrens/pattren31.png) 0 0 repeat;
 }
 .section-pattren-32 {
-	width: 100%;
-	height: 100%;
 	margin: 0;
 	background-color: #000;
 
@@ -5460,3 +5460,9 @@ header{
 .section-pattren-32 h2, h6{
 	color: white !important;
 }
+/* .card-img-top{
+	height:250px ;
+	width: 100%;
+	object-fit: ;
+	object-position:center;
+} */
