@@ -3154,7 +3154,7 @@ ul.footer-flickr {
 	height: 100%;
 	margin: 0;
 	background: url(../images/bg-pattrens/pattren24.jpg) 0 0 repeat;
-	
+
 
 }
 .section-pattren-25 {
@@ -5423,14 +5423,14 @@ display:none;
 
 /* changed css */
 header{
-	
+
 	align-items: center;
 }
 
 
 .main-side{
 	justify-content:flex-end;
-	
+
 
 }
 
@@ -5441,7 +5441,7 @@ header{
 }
 
 .main-side .medias a {
-	
+
 	align-items: center;
 	text-decoration: none;
 	color: white;
@@ -5466,3 +5466,9 @@ header{
 	object-fit: ;
 	object-position:center;
 } */
+
+
+.section-pattern-101 .container {
+	
+	margin-top: 10px;
+}

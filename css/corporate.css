@@ -73,6 +73,7 @@ Design and Developed by: Codelayers
 	width:100%;
 	float:left;
 	top:-70px ;
+
 	padding:45px;
 	background-color:#CF2027;
 	box-shadow: 7px 15px 5px rgba(247, 110, 110, 0.39);
@@ -95,6 +96,7 @@ Design and Developed by: Codelayers
 	width:100%;
 	float:left;
 	top:-270px ;
+	margin: 0px;
 	padding:45px;
 	background-color:#CF2027;
 }
@@ -310,7 +312,7 @@ box-shadow: 0 1px 21px rgba(0,0,0,.10);
 .ce-feature-box-7{
 	width:100%;
 	float:left;
-	
+
 }
 .ce-feature-box-7 .main-box{
 	position:relative;
@@ -3440,3 +3442,37 @@ width: 100%;
 
 
 }
+
+
+/* costume css */
+
+.section-pattren-24{
+	margin-bottom: 10px;
+}
+
+.ce-feature-box-101 .card{
+	background-color: #CF2027;
+	margin-bottom: 20px;
+	width: 90%;
+	-webkit-box-shadow: inset -15px 5px 38px -7px rgba(0,0,0,1);
+    -moz-box-shadow: inset -15px 5px 38px -7px rgba(0,0,0,1);
+    box-shadow: inset -15px 5px 38px -7px rgba(0,0,0,1);
+
+}
+
+.ce-feature-box-101 .card img{
+	width: 100%;
+}
+
+.ce-feature-box-101 .card .card-body{
+	color: white;
+	/* text-align: center; */
+	 align-items: center;
+	padding: 10px;
+}
+
+.ce-feature-box-101 .middle .card-body{
+	padding: 28px;
+}
+
+
