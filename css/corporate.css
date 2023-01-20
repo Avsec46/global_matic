@@ -38,6 +38,15 @@ Design and Developed by: Codelayers
 	display: flex;
 
 }
+
+.parent-flex {
+	display: -ms-flex;
+	display: -webkit-flex;
+	display: flex;
+}
+.child-flex {
+	flex:1;
+}
 .ce-sub-text.less-width {
 	width: 50%;
 	margin:15px auto 0 auto;
@@ -804,16 +813,21 @@ box-shadow: 0 1px 21px rgba(0,0,0,.10);
  .ce-feature-box-21{
 	width:100%;
 	padding:0;
+	height: 100%;
 	float:left;
+	
 }
  .ce-feature-box-21 .text-box{
 	width:100%;
+	height: 100%;
 	float:left;
 	padding:50px;
 	background-color:#fff;
 	-webkit-box-shadow: 0 0 0 rgba(0,0,0,0.1);
 	box-shadow: 0 0 0 rgba(0,0,0,0.1);
 	transition: all 0.3s ease-out 0s;
+	
+
 }
  .ce-feature-box-21:hover .text-box{
 	box-shadow: 0 20px 20px rgba(0,0,0,0.14);
