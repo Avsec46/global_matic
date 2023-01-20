@@ -5460,15 +5460,24 @@ header{
 .section-pattren-32 h2, h6{
 	color: white !important;
 }
-/* .card-img-top{
-	height:250px ;
+.card-img-tops{
+	max-height:60vh;
 	width: 100%;
-	object-fit: ;
+	object-fit:cover ;
 	object-position:center;
+<<<<<<< HEAD
 } */
 
 
 .section-pattern-101 .container {
 	
 	margin-top: 10px;
+=======
+}
+.card-img-top{
+		max-height:60vh;
+	width: 100%;
+	object-fit:cover ;
+	object-position:center;
+>>>>>>> 4b0164ee72a5587610bb9f8db68c19a864754e5d
 }
