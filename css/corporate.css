@@ -815,7 +815,7 @@ box-shadow: 0 1px 21px rgba(0,0,0,.10);
 	padding:0;
 	height: 100%;
 	float:left;
-	
+
 }
  .ce-feature-box-21 .text-box{
 	width:100%;
@@ -826,7 +826,7 @@ box-shadow: 0 1px 21px rgba(0,0,0,.10);
 	-webkit-box-shadow: 0 0 0 rgba(0,0,0,0.1);
 	box-shadow: 0 0 0 rgba(0,0,0,0.1);
 	transition: all 0.3s ease-out 0s;
-	
+
 
 }
  .ce-feature-box-21:hover .text-box{
@@ -3489,4 +3489,15 @@ width: 100%;
 	padding: 28px;
 }
 
+
+.section-pattern-202{
+	background-image: url(/images/company1.jpg) ;
+	background-size: cover;
+
+}
+
+.section-pattern-202 .img-contain{
+	
+	background-color:#CF2027;
+}
 
