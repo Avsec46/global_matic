@@ -3491,13 +3491,58 @@ width: 100%;
 
 
 .section-pattern-202{
+	color: white;
 	background-image: url(/images/company1.jpg) ;
 	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 100vh;
+	position: relative;
+	z-index: 1;
 
 }
 
-.section-pattern-202 .img-contain{
-	
+.section-pattern-202 .company  .img-contain{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+border-top: 2px solid rgba(253, 253, 253, 0.315);
+border-bottom: 2px solid rgba(255, 255, 255, 0.363);
+background: rgb(0,212,255);
+background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(248,7,7,1) 0%, rgba(246,8,8,0.7960434173669468) 23%, rgba(241,10,10,0.5271358543417367) 39%, rgba(239, 11, 11, 0.521) 61%, rgba(218, 11, 11, 0) 91%, rgba(237, 12, 12, 0) 100%, rgba(233,13,13,1) 100%);
+}
+
+.section-pattern-202 .company {
+	float: left;
+	padding-top: 270px;
+    padding-bottom: 183px;
+}
+
+.section-pattern-203 {
+	padding: 50px;
+}
+
+.section-pattern-203 .company-details {
+	padding: 50px;
+}
+
+.section-pattern-203 .company-details  .com-img img{
+	width: 100%;
+	height: 80vh;
+}
+
+.ce-title-line-company {
+	width: 40%;
+	height:2px;
 	background-color:#CF2027;
+	margin:15px auto 0 auto;
 }
 
+.ce-title-line-middle {
+	width: 100%;
+	height:4px;
+	background-color:#00000025;
+	margin:15px auto 0 auto;
+
+}
